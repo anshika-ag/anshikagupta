@@ -115,7 +115,6 @@ P3T1085UK Temperature Sensor Driver & Demo Application
   <li>Developed CMSIS-based software for the SJA1124 Quad LIN Commander platform.</li>
   <li>Implemented SPI communication interfaces for configuring and controlling LIN channels.</li>
   <li>Built utilities for LIN communication, diagnostics, and validation.</li>
-  <li>Supported automotive applications including body control, lighting, HVAC, and park-assist systems.</li>
 </ul>
 
 <p>
