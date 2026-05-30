@@ -75,6 +75,79 @@ I enjoy building software close to hardware and solving low-level embedded syste
 
 ---
 
+<!-- Embedded Software & Bare-Metal Development -->
+
+<h2>🔬 Embedded Software & Bare-Metal Development</h2>
+
+<p>
+As part of my work at NXP Semiconductors, I have developed CMSIS-based drivers,
+middleware, and demonstration applications for ARM Cortex-M platforms published
+through <b>NXP AppCodeHub</b>. My contributions span industrial sensing,
+automotive communication, and power management solutions.
+</p>
+
+<hr>
+
+<h3>🌡️ Digital Temperature Sensor</h3>
+
+<h4>P3T1085UK Temperature Sensor Driver & Demo Application</h4>
+
+<ul>
+  <li>Developed CMSIS-compliant driver APIs for high-accuracy digital temperature sensing.</li>
+  <li>Implemented I2C-based communication and temperature monitoring functionality.</li>
+  <li>Created demonstration applications for industrial and embedded monitoring systems.</li>
+</ul>
+
+<p>
+🔗 <b>Repository:</b><br>
+<a href="https://github.com/nxp-appcodehub/dm-p3t1085uk-temperature-sensor-driver-with-demo-app">
+P3T1085UK Temperature Sensor Driver & Demo Application
+</a>
+</p>
+
+<hr>
+
+<h3>🚗 Automotive LIN Communication</h3>
+
+<h4>SJA1124EVB SPI-to-Quad LIN Bridge Driver & Demo Application</h4>
+
+<ul>
+  <li>Developed CMSIS-based software for the SJA1124 Quad LIN Commander platform.</li>
+  <li>Implemented SPI communication interfaces for configuring and controlling LIN channels.</li>
+  <li>Built utilities for LIN communication, diagnostics, and validation.</li>
+  <li>Supported automotive applications including body control, lighting, HVAC, and park-assist systems.</li>
+</ul>
+
+<p>
+🔗 <b>Repository:</b><br>
+<a href="https://github.com/nxp-appcodehub/dm-sja1124evb-spi-to-quad-lin-bridge">
+SJA1124EVB SPI-to-Quad LIN Bridge Driver & Demo Application
+</a>
+</p>
+
+<hr>
+
+<h3>⚡ Power Management IC (PMIC)</h3>
+
+<h4>PCA9420UK-EVM PMIC Driver & Demo Application</h4>
+
+<ul>
+  <li>Developed software for low-power power-management applications using the PCA9420 PMIC.</li>
+  <li>Implemented configuration and control interfaces for regulators and power-management features.</li>
+  <li>Created demonstration applications for battery-powered and low-power embedded systems.</li>
+  <li>Validated PMIC functionality on ARM Cortex-M platforms.</li>
+</ul>
+
+<p>
+🔗 <b>Repository:</b><br>
+<a href="https://github.com/nxp-appcodehub/dm-pca9420uk-evm-pmic-for-low-power-application">
+PCA9420UK-EVM PMIC Driver & Demo Application
+</a>
+</p>
+
+<hr>
+```
+
 ## 💼 Experience
 
 ### Software Engineer — NXP Semiconductors
