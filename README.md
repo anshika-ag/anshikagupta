@@ -161,12 +161,6 @@ PCA9420UK-EVM PMIC Driver & Demo Application
 - Perform board bring-up and hardware debugging.
 - Validate industrial and automotive embedded platforms.
 
-#### Products & Platforms
-
-- P3T1085UK
-- SJA1124-EVB (Quad LIN Bridge)
-- PCA9420UK-EVM (PMIC)
-
 #### Domain Exposure
 
 - Automotive Systems
@@ -185,12 +179,6 @@ PCA9420UK-EVM PMIC Driver & Demo Application
 - Developed applications using MCTP, I2C, I3C, and D-Bus.
 - Implemented endpoint discovery solutions.
 - Performed validation across multiple hardware configurations.
-
-#### Certifications
-
-- Intel White Belt
-- Intel Yellow Belt
-
 ---
 
 ## 🚀 Featured Projects
