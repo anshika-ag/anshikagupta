@@ -224,7 +224,7 @@ Repository
 <h2>🏆 Achievements</h2>
 
 <ul>
-<li>GATE Qualified</li>
+<li>GATE 2021 Qualified (AIR 1277)</li>
 <li>4★ CodeChef Programmer</li>
 <li>Codeforces Pupil</li>
 <li>NPTEL Silver Medal</li>
