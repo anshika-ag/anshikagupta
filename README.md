@@ -75,37 +75,34 @@ I enjoy building software close to hardware and solving low-level embedded syste
 - Peripheral Validation
 
 ---
-
-<h2>📡 Wireless Embedded Communication Platform</h2>
-
-<h3>Wi-INT Wireless Interconnect Technology</h3>
+<h2>📡 Wireless Embedded Communication Systems</h2>
 
 <p>
-Worked on firmware and tooling development for NXP's <b>Wi-INT</b> wireless communication technology, enabling high-speed cable-free connectivity between embedded devices.
+Contributed to the development and validation of a short-range wireless communication solution for embedded systems, enabling cable-free device connectivity and management.
 </p>
 
 <ul>
-  <li>Developed embedded firmware for the <b>LPC55S69 ARM Cortex-M33</b> platform.</li>
-  <li>Built Python-based host utilities for wireless device configuration, management, and validation.</li>
-  <li>Contributed to RF-based communication workflows for cable-free peripheral connectivity.</li>
-  <li>Supported wireless transport of USB, DisplayPort, and embedded communication interfaces.</li>
-  <li>Enabled wireless programming, debugging, and device management capabilities.</li>
-  <li>Performed firmware validation and testing of wireless embedded systems.</li>
+  <li>Developed embedded firmware for ARM Cortex-M microcontroller platforms.</li>
+  <li>Created Python-based host utilities for device configuration, control, and validation.</li>
+  <li>Worked with RF-based communication systems for wireless data exchange between embedded devices.</li>
+  <li>Implemented and validated communication workflows for peripheral and system-level interactions.</li>
+  <li>Supported wireless device management, debugging, and firmware update capabilities.</li>
+  <li>Performed firmware testing, validation, and issue debugging across hardware platforms.</li>
 </ul>
 
-<h4>Key Technologies</h4>
+<h4>Technologies</h4>
 
 <p>
-Embedded C • Python • ARM Cortex-M33 • LPC55S69 • RF Communication • Wireless Connectivity • Firmware Validation • Device Management
+Embedded C • Python • ARM Cortex-M • RF Communication • Firmware Validation • Hardware Debugging • Device Management
 </p>
 
 <h4>Applications</h4>
 
 <ul>
-  <li>Industrial Automation</li>
-  <li>Medical Devices</li>
-  <li>Embedded Systems</li>
-  <li>Cable Replacement Solutions</li>
+  <li>Industrial Embedded Systems</li>
+  <li>Wireless Device Connectivity</li>
+  <li>Embedded Product Development</li>
+  <li>Cable-Reduction Solutions</li>
 </ul>
 
 ---
