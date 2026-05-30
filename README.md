@@ -8,7 +8,7 @@ Senior Embedded Software Engineer
   <a href="mailto:guptaanshika.ag@gmail.com">
     <img src="https://img.shields.io/badge/Email-lakshaypiplani77%40gmail.com-red?style=for-the-badge&logo=gmail">
   </a>
-  <a href="https://www.linkedin.com/in/lakshay-piplani-827544151">
+  <a href="https://www.linkedin.com/in/anshika-gupta-45b2a2186/">
     <img src="https://img.shields.io/badge/LinkedIn-Lakshay%20Piplani-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="https://lore.kernel.org/linux-i3c/20260525064209.2263045-1-lakshay.piplani@nxp.com/T/#t">
