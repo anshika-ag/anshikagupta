@@ -145,7 +145,6 @@ PCA9420UK-EVM PMIC Driver & Demo Application
 </p>
 
 <hr>
-```
 
 ## 💼 Experience
 
