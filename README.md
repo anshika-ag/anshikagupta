@@ -11,9 +11,6 @@ Senior Embedded Software Engineer
   <a href="https://www.linkedin.com/in/anshika-gupta-45b2a2186/">
     <img src="https://img.shields.io/badge/LinkedIn-Anshika%20Gupta-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="https://lore.kernel.org/linux-i3c/20260525064209.2263045-1-lakshay.piplani@nxp.com/T/#t">
-    <img src="https://img.shields.io/badge/Linux%20Kernel-Patchsets-black?style=for-the-badge&logo=linux">
-  </a>
 </p>
 
 <p align="center">
