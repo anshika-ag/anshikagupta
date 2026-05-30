@@ -1,4 +1,3 @@
-```html
 <h1 align="center">Hi 👋, I'm Anshika Gupta</h1>
 
 <h3 align="center">
