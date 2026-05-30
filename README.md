@@ -1,3 +1,4 @@
+```html
 <h1 align="center">Hi 👋, I'm Anshika Gupta</h1>
 
 <h3 align="center">
@@ -21,9 +22,9 @@ Embedded Software Engineer | Firmware Developer
 
 ## 🚀 About Me
 
-I am an **Embedded Software Engineer at NXP Semiconductors** with experience developing production-grade firmware for **ARM Cortex-M microcontrollers**.
+I am an **Embedded Software Engineer at NXP Semiconductors** with experience developing production-grade firmware, wireless communication solutions, and CMSIS-based software for **ARM Cortex-M microcontrollers**.
 
-My expertise includes **Embedded C/C++, Bare-Metal Programming, CMSIS Driver Development, Bootloaders, Firmware Validation, Board Bring-up, Secure Firmware Updates, and Industrial/Automotive Embedded Systems**.
+My expertise includes **Embedded C/C++, Bare-Metal Programming, CMSIS Driver Development, Bootloaders, Firmware Validation, Board Bring-up, Wireless Communication, Secure Firmware Updates, and Industrial/Automotive Embedded Systems**.
 
 I enjoy building software close to hardware and solving low-level embedded system challenges.
 
@@ -41,6 +42,7 @@ I enjoy building software close to hardware and solving low-level embedded syste
 - Board Bring-up
 - Hardware Debugging
 - Python Automation
+- RF Communication
 - Secure Firmware Updates (OTA/FOTA)
 - Industrial & Automotive Embedded Systems
 
@@ -75,7 +77,39 @@ I enjoy building software close to hardware and solving low-level embedded syste
 
 ---
 
-<!-- Embedded Software & Bare-Metal Development -->
+<h2>📡 Wireless Embedded Communication Platform</h2>
+
+<h3>Wi-INT Wireless Interconnect Technology</h3>
+
+<p>
+Worked on firmware and tooling development for NXP's <b>Wi-INT</b> wireless communication technology, enabling high-speed cable-free connectivity between embedded devices.
+</p>
+
+<ul>
+  <li>Developed embedded firmware for the <b>LPC55S69 ARM Cortex-M33</b> platform.</li>
+  <li>Built Python-based host utilities for wireless device configuration, management, and validation.</li>
+  <li>Contributed to RF-based communication workflows for cable-free peripheral connectivity.</li>
+  <li>Supported wireless transport of USB, DisplayPort, and embedded communication interfaces.</li>
+  <li>Enabled wireless programming, debugging, and device management capabilities.</li>
+  <li>Performed firmware validation and testing of wireless embedded systems.</li>
+</ul>
+
+<h4>Key Technologies</h4>
+
+<p>
+Embedded C • Python • ARM Cortex-M33 • LPC55S69 • RF Communication • Wireless Connectivity • Firmware Validation • Device Management
+</p>
+
+<h4>Applications</h4>
+
+<ul>
+  <li>Industrial Automation</li>
+  <li>Medical Devices</li>
+  <li>Embedded Systems</li>
+  <li>Cable Replacement Solutions</li>
+</ul>
+
+---
 
 <h2>🔬 Embedded Software & Bare-Metal Development</h2>
 
@@ -115,6 +149,7 @@ P3T1085UK Temperature Sensor Driver & Demo Application
   <li>Developed CMSIS-based software for the SJA1124 Quad LIN Commander platform.</li>
   <li>Implemented SPI communication interfaces for configuring and controlling LIN channels.</li>
   <li>Built utilities for LIN communication, diagnostics, and validation.</li>
+  <li>Supported automotive communication use cases and system validation.</li>
 </ul>
 
 <p>
@@ -144,7 +179,7 @@ PCA9420UK-EVM PMIC Driver & Demo Application
 </a>
 </p>
 
-<hr>
+---
 
 ## 💼 Experience
 
@@ -160,12 +195,14 @@ PCA9420UK-EVM PMIC Driver & Demo Application
 - Create Python automation tools for firmware testing and validation.
 - Perform board bring-up and hardware debugging.
 - Validate industrial and automotive embedded platforms.
+- Develop and validate wireless communication solutions using RF technologies.
 
 #### Domain Exposure
 
 - Automotive Systems
 - Industrial Embedded Systems
 - Battery Management Systems (BMU, CMU, BJB)
+- Wireless Embedded Systems
 
 ---
 
@@ -179,6 +216,7 @@ PCA9420UK-EVM PMIC Driver & Demo Application
 - Developed applications using MCTP, I2C, I3C, and D-Bus.
 - Implemented endpoint discovery solutions.
 - Performed validation across multiple hardware configurations.
+
 ---
 
 ## 🚀 Featured Projects
@@ -216,23 +254,14 @@ Android application for sharing educational resources.
 ## 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-
-<img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
-
-<img src="https://img.shields.io/badge/ARM%20Cortex--M-0091BD?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/FreeRTOS-00A300?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/CMSIS-FF6F00?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/ARM%20Cortex--M-0091BD?style=for-the-badge">
+  <img src="https://img.shields.io/badge/FreeRTOS-00A300?style=for-the-badge">
+  <img src="https://img.shields.io/badge/CMSIS-FF6F00?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
 ---
@@ -304,6 +333,6 @@ Dr. Ambedkar Institute of Technology
 ---
 
 <p align="center">
-<b>Building reliable firmware, one peripheral at a time.</b>
+<b>Building reliable firmware, enabling wireless connectivity, and solving problems close to the hardware.</b>
 </p>
-
+```
